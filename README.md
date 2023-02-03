@@ -26,3 +26,7 @@ Corosync - программный продукт, позволяющий реа�
 Пример реализации кластера — Corosync + Stonith + Pacemaker (вместо Corosync может использовать Heartbeat).
 
 ### Задание 3
+![master conf](https://github.com/EvgenyMyznikov/pacemaker/blob/main/img/corosync.conf2023-02-03.png?raw=true) 
+![host1 conf](https://github.com/EvgenyMyznikov/pacemaker/blob/main/img/corosync.conf-host1-2023-02-03.png?raw=true)
+![master status](https://github.com/EvgenyMyznikov/pacemaker/blob/main/img/pcs_status_master.png?raw=true)
+![host1 status](https://github.com/EvgenyMyznikov/pacemaker/blob/main/img/pcs_status_host1.png?raw=true)
